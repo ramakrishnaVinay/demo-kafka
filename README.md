@@ -1,1 +1,1 @@
-# demo-kafka
+# intanst-payment-platform
